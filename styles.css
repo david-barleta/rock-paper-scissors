@@ -26,13 +26,6 @@ body {
   margin-top: 50px;
 }
 
-header img {
-  height: 40px;
-  width: auto;
-  margin-right: 20px;
-  margin-top: 3px;
-}
-
 .round {
   display: flex;
   justify-content: center;
